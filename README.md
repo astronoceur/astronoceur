@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Olá, me chamo Luiza, sou acadêmica de licenciatura em computação e atualmente estou no 4◦ período.</p>
+<p align="left">Olá, me chamo Luiza, sou acadêmica de licenciatura em computação e atualmente estou no 6◦ período.</p>
 
 ###
 
