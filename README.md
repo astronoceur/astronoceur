@@ -1,4 +1,4 @@
-# Hi, I'm Luiza Marinho! 👋
+# Hi, I'm Luiza Schirmer! 👋
 
 🎓 **Computer Science Education undergraduate at Universidade do Estado do Amazonas (UEA)**
 💻 **QA | Software Testing | Data Analysis | Computing Education Research**
