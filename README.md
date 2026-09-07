@@ -1,7 +1,7 @@
 # Hi, I'm Luiza Schirmer! ᕙ(^▿^-ᕙ)
 
 🎓 **Computer Science Education undergraduate at Universidade do Estado do Amazonas (UEA)**
-💻 **QA | Software Testing | Data Analysis | Computing Education Research**
+💻 **QA | Software Testing | Data Analysis | Computer Education Research**
 🔬 Interested in **Software Quality, Educational Technology, Data, and Emerging Technologies**
 
 I'm a Computer Science Education student passionate about building technology that is not only functional, but also **reliable, meaningful, and capable of creating impact**.
