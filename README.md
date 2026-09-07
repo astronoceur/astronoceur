@@ -74,12 +74,15 @@ My experience combines **Software Quality Assurance, software development, data 
 
 ## 🤝 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/luiza-marinho-diniz-schirmer-1a9b9a274/">
-    <img src="https://img.shields.io/badge/LinkedIn-Luiza%20Marinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="left">
+  <a href="https://www.linkedin.com/in/luiza-marinho-diniz-schirmer-1a9b9a274/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://replit.com/@astronoceur">
-    <img src="https://img.shields.io/badge/Replit-astronoceur-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+  <a href="mailto:luizadinizschirmer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+  <a href="http://lattes.cnpq.br/8266559066848960" target="_blank">
+    <img src="https://img.shields.io/badge/-Currículo_Lattes-004488?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Currículo Lattes"/>
+  </a>
+</div>
 
