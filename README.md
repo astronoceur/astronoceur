@@ -27,26 +27,6 @@ My experience combines **Software Quality Assurance, software development, data 
 * 🔬 Researcher in **Computing Education and Educational Technologies**
 * 🎮 Interested in **serious games, gamification, and game-based learning**
 * 🌱 Currently expanding my knowledge in **automation, data, software engineering, and emerging technologies**
-* 🎯 Long-term goal: pursue a **Master's and PhD** while building a career in technology and research
-
----
-
-## 🔬 Research & Computing Education
-
-My academic interests are strongly connected to **Computing Education**, especially the use of technology to make learning more interactive and effective.
-
-I have worked on projects involving:
-
-* 🎮 **Serious Games for Education**
-* 🧩 **Gamification and Game-Based Learning**
-* 💻 **Programming Education**
-* 🗄️ **Database / SQL Education**
-* 🧠 **Discrete Mathematics and Computational Thinking**
-* 📊 **Educational Data and Institutional Indicators**
-
-I have also participated in research and academic publications presented at conferences in the area of Computing Education.
-
----
 
 ## 🧠 Tech Stack
 
@@ -91,22 +71,6 @@ I have also participated in research and academic publications presented at conf
 `Test Cases` · `Regression Testing` · `Exploratory Testing` · `API Testing`
 `BDD / Gherkin` · `Test Documentation` · `Test Strategy` · `Traceability`
 
----
-
-## 🌱 Currently Learning
-
-```text
-Software Quality
-Test Automation
-Data Analysis
-Software Engineering
-Educational Technologies
-Research Methodology
-Cloud Computing
-Emerging Technologies
-```
-
----
 
 ## 🤝 Let's Connect
 
