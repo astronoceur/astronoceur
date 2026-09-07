@@ -1,63 +1,121 @@
-<h2 align="left">Hello! :-)</h2>
+# Hi, I'm Luiza Marinho! 👋
 
-###
+🎓 **Computer Science Education undergraduate at Universidade do Estado do Amazonas (UEA)**
+💻 **QA | Software Testing | Data Analysis | Computing Education Research**
+🔬 Interested in **Software Quality, Educational Technology, Data, and Emerging Technologies**
 
-<br clear="both">
+I'm a Computer Science Education student passionate about building technology that is not only functional, but also **reliable, meaningful, and capable of creating impact**.
 
-<p align="left">Olá, me chamo Luiza, sou acadêmica de licenciatura em computação e atualmente estou no 7◦ período.</p>
-
-###
-
-<div align="center">
-  <img height="204" src="https://media1.tenor.com/m/MaIKnvKAQv8AAAAC/snoopy-typing.gif"  />
-</div>
-
-###
-
-<h2 align="left">Atualmente estudo:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
-</div>
-
-###
-
-<h2 align="left">Status:</h2>
+My experience combines **Software Quality Assurance, software development, data analysis, research, and educational technologies**. I enjoy working on multidisciplinary projects where technology, education, and problem-solving come together.
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astronoceur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="142" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astronoceur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="142" alt="languages graph"  />
+  <img height="204" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnAzMzBpb284bGdoamZ0Zm1ocDYxZ3JndWVsNjI0YnhlOHRiNDdubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zRgQYRbZWFXGZ1Tgw/giphy.gif"  />
 </div>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/luiza-marinho-diniz-schirmer-1a9b9a274/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="42" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/luawdsz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="42" alt="instagram logo"  />
-  </a>
-</div>
+---
 
-###
+## 🚀 About Me
+
+* 🎓 Undergraduate student in **Computer Science Education at UEA**
+* 🧪 Experience in **Quality Assurance and Software Testing**
+* 🔍 Interested in **Manual Testing, Test Automation, API Testing, Regression Testing, and Test Design**
+* 📊 Experience with **data analysis and institutional indicators**
+* 🔬 Researcher in **Computing Education and Educational Technologies**
+* 🎮 Interested in **serious games, gamification, and game-based learning**
+* 🌱 Currently expanding my knowledge in **automation, data, software engineering, and emerging technologies**
+* 🎯 Long-term goal: pursue a **Master's and PhD** while building a career in technology and research
+
+---
+
+## 🔬 Research & Computing Education
+
+My academic interests are strongly connected to **Computing Education**, especially the use of technology to make learning more interactive and effective.
+
+I have worked on projects involving:
+
+* 🎮 **Serious Games for Education**
+* 🧩 **Gamification and Game-Based Learning**
+* 💻 **Programming Education**
+* 🗄️ **Database / SQL Education**
+* 🧠 **Discrete Mathematics and Computational Thinking**
+* 📊 **Educational Data and Institutional Indicators**
+
+I have also participated in research and academic publications presented at conferences in the area of Computing Education.
+
+---
+
+## 🧠 Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+</p>
+
+### Quality Assurance & Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+</p>
+
+### Tools & Practices
+
+`Git` · `GitHub` · `GitLab CI/CD` · `Jira` · `Confluence` · `SonarQube`
+`Test Cases` · `Regression Testing` · `Exploratory Testing` · `API Testing`
+`BDD / Gherkin` · `Test Documentation` · `Test Strategy` · `Traceability`
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Software Quality
+Test Automation
+Data Analysis
+Software Engineering
+Educational Technologies
+Research Methodology
+Cloud Computing
+Emerging Technologies
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/luiza-marinho-diniz-schirmer-1a9b9a274/">
+    <img src="https://img.shields.io/badge/LinkedIn-Luiza%20Marinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://replit.com/@astronoceur">
+    <img src="https://img.shields.io/badge/Replit-astronoceur-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+  </a>
+</p>
+
